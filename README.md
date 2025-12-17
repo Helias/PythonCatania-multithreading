@@ -3,7 +3,7 @@
 Demo project showcasing Python's multithreading, multiprocessing, and the experimental GIL-free Python 3.14t build.
 
 📍 [Event](https://www.meetup.com/python-catania/events/312066711/)  
-📄 [Slides](https://slides.com/stefanoborzi/code-b233c7/fullscreen), [download](https://github.com/Helias/PythonCatania-multithreading/blob/main/multithreading.pdf)
+📄 [Slides](https://slides.com/stefanoborzi/code-e7d3ed/fullscreen#/1), [download](https://github.com/Helias/PythonCatania-multithreading/blob/main/multithreading.pdf)
 
 ## Overview
 
